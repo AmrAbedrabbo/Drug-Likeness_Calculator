@@ -9,13 +9,13 @@ A computational tool for early-stage drug screening that evaluates molecules aga
 - **Integrated Assessment**: Combines rule-based and ML predictions into actionable recommendations
 
 ## Technologies
-- Python 3.9
-- RDKit 2025.09.2
-- DeepChem 2.8.1
+- Python=3.9
+- RDKit=2025.09.2
+- DeepChem=2.8.1
 
 ## Performance
-Training R²: 0.91
-Test R²: 0.66
+- Training R²: 0.91
+- Test R²: 0.66
 
 ## Acknowledgements
 GNN implementation adapted from examples in *Deep Learning for the Life Sciences* (Ramsundar et al., O'Reilly 2019). The calculator framework and multi-rule integration are original work.
